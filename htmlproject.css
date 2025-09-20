@@ -1,0 +1,79 @@
+form {
+    border-style: double;
+}
+
+button {
+    background-color: rgba(243, 15, 15, 0.767);
+    border: none;
+}
+
+.frist {
+    display: flex;
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.secound {
+    display: flex;
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.third {
+    display: flex;
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.firth {
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.fiveth {
+    display: flex;
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.sixth {
+    display: flex;
+    border: none;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.seventh {
+    display: flex;
+    margin-left: 50px;
+    gap: 40px;
+    padding-top: 2px;
+
+}
+.eight {
+    display: flex;
+    margin-left: 50px;
+    gap: 40px;
+    padding-top: 2px;
+
+}
+.leventh{
+     display: flex;
+    margin-left: 50px;
+    gap: 40px;
+    padding-top: 2px;
+}
+.twelth{
+      display: flex;
+    margin-left: 50px;
+    gap: 40px;
+    padding-top: 2px;
+}
+.parent{
+    background-color: gray;
+}
